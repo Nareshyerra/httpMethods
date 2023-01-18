@@ -7,7 +7,7 @@ export class JobsdetailsService {
 
   constructor(private http:HttpClient) { }
 
-url="http://localhost:3002/jobposts";
+url="http://localhost:3000/jobposts";
 
 getmethod(){
   return this.http.get(this.url)
