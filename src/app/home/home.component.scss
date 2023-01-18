@@ -1,0 +1,61 @@
+// .bg{
+   
+//      height: 100vh;
+//     background-size: cover;
+//     background-image: url("https://twinklethomas.com/wp-content/uploads/2017/07/canstockphoto43708916-YOUR-EMPLOYEE-IS-SEARCHING-FOR-A-NEW-JOB-696x464.jpg");
+   
+// }
+
+.image{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+
+}
+
+.head{
+    color: rgb(43, 9, 128);
+    font-weight: 500;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.box{
+    padding: 25px;
+    background-color: #0967d219;
+    border-radius: 20px;
+    height: 140px;
+    width: 100px;
+    margin: 10px;
+    }
+    .bgr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    }
+    body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: aqua;
+    }
+    
+    nav{
+    position: fixed;
+    }
+    main{
+    flex-grow: 1;
+    }
+    
+    footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    }

@@ -1,0 +1,90 @@
+{
+  "jobposts": [
+    {
+      "id": 1,
+      "company": "softpath",
+      "jobtitle": "Developer",
+      "Experience": "2 yrs"
+    },
+    {
+      "jobid": "2",
+      "company": "EXCEED",
+      "jobtitle": "DEVLEPOER",
+      "Experience": "2",
+      "id": 2
+    },
+    {
+      "jobid": "3",
+      "company": "HCL",
+      "jobtitle": "TESTER",
+      "Experience": "3 yrs",
+      "id": 3
+    },
+    {
+      "jobid": "4",
+      "company": "wipro",
+      "jobtitle": "full stack deveolper",
+      "Experience": "5",
+      "id": 4
+    },
+    {
+      "jobid": "5",
+      "company": "tcs",
+      "jobtitle": "python dev",
+      "Experience": "fresher",
+      "id": 5
+    },
+    {
+      "jobid": "6",
+      "company": "mnc",
+      "jobtitle": "software developer",
+      "Experience": "2yrs",
+      "id": 6
+    },
+    {
+      "jobid": "7",
+      "company": "accenture",
+      "jobtitle": "junior tester",
+      "Experience": "1",
+      "id": 7
+    },
+    {
+      "jobid": "8",
+      "company": "scr",
+      "jobtitle": "tred",
+      "Experience": "7",
+      "id": 8
+    },
+    {
+      "jobid": "9",
+      "company": "hcl",
+      "jobtitle": "tester",
+      "Experience": "4",
+      "id": 9
+    },
+    {
+      "jobid": "",
+      "company": "",
+      "jobtitle": "",
+      "Experience": "",
+      "id": 10
+    },
+    {
+      "jobid": "",
+      "company": "",
+      "jobtitle": "",
+      "Experience": "",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
